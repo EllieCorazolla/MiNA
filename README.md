@@ -234,7 +234,7 @@ If this is not achieved, the analysis is likely unsuitable for the particular pu
  **4.** Move the file "MiNA_Analyze_Morphology.py" located at "src>scripts" to "scripts". </br>
  **5.** Move the folder "mina_icons" inside "images". </br>
  **6.** In the "build" folder of this repository you will see a jar file. Move it inside "plugins". </br> 
- **7.** Finally, start ImageJ and if you don't have the Biomedroup site installed then click on Help->Update...</br>
+ **7.** Finally, start ImageJ and if you don't have the Biomedgroup site installed then click on Help->Update...</br>
         Navigate to the update site manager (Manage update sites). Add the "Biomedgroup" site by checking the checkbox beside the site.</br>
         Close the site manager dialog (Close) and apply the changes (Apply changes)
 
